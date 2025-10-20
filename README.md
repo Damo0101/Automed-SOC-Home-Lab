@@ -236,9 +236,3 @@ Planned enhancements:
 - CISA — Incident & vulnerability response playbooks.
 - VirusTotal API (v3) — File/URL/domain reputation API.
 
----
-
-If you'd like, I can:
-- Add an ASCII/inline network diagram or mermaid diagram for the architecture.
-- Produce example local_rules.xml and ossec.conf snippets ready for deployment.
-- Convert this README into a printable PDF or more compact summary section.
